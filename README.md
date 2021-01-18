@@ -1,2 +1,2 @@
-# Starbucks-ananlysis
+# Starbucks-analysis
 The starbucks dataset analysis
