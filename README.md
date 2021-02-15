@@ -1,4 +1,4 @@
-# Predicts whether or not someone will respond to an offer.
+# Starbucks analysis: Predicts whether or not someone will respond to an offer.
 ### Table of Contents 
 1. [Project Motivation](#Project-Motivation)
 2. [Description](#Description)
