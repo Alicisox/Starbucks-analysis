@@ -1,4 +1,5 @@
-# Predicts whether or not someone will respond to an offer.### Table of Contents 
+# Predicts whether or not someone will respond to an offer.
+### Table of Contents 
 1. [Project Motivation](#Project-Motivation)
 2. [Description](#Description)
 3. [Installation](#Installation)
@@ -6,7 +7,7 @@
 5. [File Descriptions](#File-Descriptions)
 
 ## Project Motivation
-I just curious that can a company sends out an preferred offer to an individual customer instead of randomly sends an offer to a customer.
+I curious that how to find the preferred offer that customer want by looking at the Starbucks dataset.
 
 ## Description
 One of the main problems that the company faces when sends out an offer to the customers is the company doesn't know which offer be preferred by customers. Hence the company sends out an offer without knowing what offer that customer desires.
