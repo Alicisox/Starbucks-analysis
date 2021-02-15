@@ -17,7 +17,11 @@ The project implements the XGBoost classifier and Starbucks dataset. The Starbuc
 
 ## Installation
 
-The project code should run with no issues using Anaconda versions 4.9.x, python versions 3.x., and seaborn versions 0.11.x </br>
+The XGBoost need to be installed.
+
+```conda install -c conda-forge xgboost```
+
+And the project code should run with no issues using Anaconda versions 4.9.x, python versions 3.x., and seaborn versions 0.11.x </br>
 
 ## Libraries
 * pandas
