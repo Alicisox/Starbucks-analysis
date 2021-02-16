@@ -23,6 +23,8 @@ The XGBoost need to be installed.
 
 ```conda install -c conda-forge xgboost```
 
+run the command ```conda update pandas``` before reading in the files. To make pandas read ```transcript.json``` file correctly.
+
 And the project code should run with no issues using Anaconda versions 4.9.x, python versions 3.x., and seaborn versions 0.11.x </br>
 
 ## Libraries
