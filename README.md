@@ -8,7 +8,7 @@
 6. [Result](#Result)
 
 ## Project Motivation
-I curious that how to find the preferred offer that customer want by looking at the Starbucks dataset.
+I curious that how to find the preferred offer that customer want by using the Starbucks dataset.
 
 ## Description
 One of the main problems that the company faces when sends out an offer to the customers is the company doesn't know which offer be preferred by customers. Hence the company sends out an offer without knowing what offer that customer desires.
