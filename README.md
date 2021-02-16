@@ -42,7 +42,7 @@ And the project code should run with no issues using Anaconda versions 4.9.x, py
 * xgboost
 
 ## File Descriptions
-```data/```: The folder that contains dataset (json format). <br/>
+```data/```: The folder that contains datasets (json format). <br/>
 ```data/portfolio.json```: The data of each Starbucks offer. <br/>
 ```data/profile.json```: The demographic data of each customer. <br/>
 ```data/transcript.csv```: The customer behavior on the Starbucks rewards mobile app. <br/>
