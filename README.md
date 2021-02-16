@@ -5,6 +5,7 @@
 3. [Installation](#Installation)
 4. [Libraries](#Libraries)
 5. [File Descriptions](#File-Descriptions)
+6. [Result](#Result)
 
 ## Project Motivation
 I curious that how to find the preferred offer that customer want by looking at the Starbucks dataset.
@@ -44,3 +45,8 @@ And the project code should run with no issues using Anaconda versions 4.9.x, py
 ```images/```: The folder that contains images for explanation. <br/>
 ```readme.md```: README file. <br/>
 ```starbucks_project.ipynb```: The jupyter notebook file where the code and visualization are presented.
+
+## Result
+
+The prediction can tell a company what offers are preferred by an individual customer. 
+The customer demographic and offer details are put to the model to make a prediction.
