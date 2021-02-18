@@ -11,7 +11,7 @@
 One of the main problems that the company faces when sends out an offer to the customers is that the company doesn't know which offer be preferred by customers. Hence the company sends out an offer without knowing what offer that customer desires. This problem encourages me to find what offers that individual customer prefers by using the Starbucks dataset.
 
 ## Description
-This project predicts whether offers is responded or not responded by an individual customer. The project implements the XGBoost classifier and Starbucks dataset to training the model.
+This project predicts whether offers are responded or not responded by an individual customer. The project implements the XGBoost classifier and Starbucks dataset to training the model.
 
 ## Installation
 
