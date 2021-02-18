@@ -45,8 +45,9 @@ And the project code should run with no issues using Anaconda versions 4.9.x, py
 ```images/```: The folder that contains images for explanation. <br/>
 ```readme.md```: README file. <br/>
 ```starbucks_project.ipynb```: The jupyter notebook file where the code and visualization are presented.
+```Starbucks_analysis.pdf```: The report file of Starbucks analysis project.
 
 ## Result
 
-The prediction can tell a company what offers are preferred by an individual customer. The customer demographic and offer details are put to the model to make a prediction. The results are discussed in the report file below:
+The prediction can tell a company what offers are preferred by an individual customer. The customer demographic and offer details are put to the model to make a prediction. The results are discussed in the report file below: <br/>
 ```Starbucks_analysis.pdf```
