@@ -8,14 +8,10 @@
 6. [Result](#Result)
 
 ## Project Motivation
-I curious that how to find the preferred offer that customer want by using the Starbucks dataset.
+One of the main problems that the company faces when sends out an offer to the customers is that the company doesn't know which offer be preferred by customers. Hence the company sends out an offer without knowing what offer that customer desires. This problem encourages me to find what offers that individual customer prefers by using the Starbucks dataset.
 
 ## Description
-One of the main problems that the company faces when sends out an offer to the customers is the company doesn't know which offer be preferred by customers. Hence the company sends out an offer without knowing what offer that customer desires.
-
-This project predicts whether offer is responded or not responded by an individual customer. This means that the company can implement this prediction to help the company find which offer is preferred by an individual customer and sends out an offer correctly. The project implements the XGBoost classifier and Starbucks dataset to training the model. 
-
-The project implements the XGBoost classifier and Starbucks dataset. The Starbucks dataset comprised Portfolio, Profile, and Transcript datasets. These datasets are used to train the XGBoost model.
+This project predicts whether offer is responded or not responded by an individual customer. The project implements the XGBoost classifier and Starbucks dataset to training the model. 
 
 ## Installation
 
