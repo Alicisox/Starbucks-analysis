@@ -44,7 +44,7 @@ And the project code should run with no issues using Anaconda versions 4.9.x, py
 ```data/transcript.csv```: The customer behavior on the Starbucks rewards mobile app. <br/>
 ```images/```: The folder that contains images for explanation. <br/>
 ```readme.md```: README file. <br/>
-```starbucks_project.ipynb```: The jupyter notebook file where the code and visualization are presented.
+```starbucks_project.ipynb```: The jupyter notebook file where the code and visualization are presented. <br/>
 ```Starbucks_analysis.pdf```: The report file of Starbucks analysis project.
 
 ## Result
