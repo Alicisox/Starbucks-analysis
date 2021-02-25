@@ -50,4 +50,4 @@ And the project code should run with no issues using Anaconda versions 4.9.x, py
 ## Result
 
 The prediction can tell a company what offers are preferred by an individual customer. The customer demographic and offer details are added to the model to make a prediction. The results are discussed in the report file below: <br/>
-```Starbucks_analysis.pdf```
+```Starbucks_analysis.pdf```<br/>
